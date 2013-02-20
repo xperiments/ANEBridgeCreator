@@ -35,7 +35,7 @@ Imagine you need an ANE that lets you start/stop the iphone torch, load a html p
 
 #### 4. Select your generated swf file
 
-#### 5. Set the full class package name of your class in the input field
+#### 5. Set the full class package class name.(ie: es.xperiments.ane.torch.Torch )
 
 #### 6. Select the target AIR SDK
 

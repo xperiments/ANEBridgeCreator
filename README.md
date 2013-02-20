@@ -31,7 +31,7 @@ Imagine you need an ANE that lets you start/stop the iphone torch, load a html p
 
 > You need to compile your class by preserving the metadata tags
 
-#### 3. Open [ANEBridgeCreator](http://htmlpreview.github.com/?)
+#### 3. Open [ANEBridgeCreator](http://www.xperiments.es/ANEBridgeCreator/ANEBridgeCreator.html)
 
 #### 4. Select your generated swf file
 

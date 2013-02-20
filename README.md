@@ -4,6 +4,12 @@ A little tool to simplify the startup of a ANE project.
 
 It lets you generate a "startup iOS ANE" project from a "bridge as3 class".
 
+I know it is not perfect but is really a good starting point.
+
+I have not provided the source code as is not very well done, but works!!
+
+Maybe if I have time i will do a cleanup and post it.
+
 ## Usage
 
 #### 1. Pseudo Interface Class Creation
